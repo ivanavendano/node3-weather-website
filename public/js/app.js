@@ -1,4 +1,4 @@
-console.log('Lado del cliente ejecutandose')
+
 
 // fetch('http://localhost:3000/weather?address=Caracas').then((response)=>{
 
